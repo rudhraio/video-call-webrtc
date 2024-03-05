@@ -1,0 +1,10 @@
+# library files
+node_modules
+
+# build files
+dist
+
+# local files
+.env
+db.json
+cert/*
